@@ -1,2 +1,2 @@
 # dspriorities
-DS Priorities, a tool written in C# to modify Demand Solution priorities
+DS Priorities, a tool written in C# with .Net to modify Demand Solution priorities
